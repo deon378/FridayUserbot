@@ -52,7 +52,7 @@ pm_caption += f"➥ **Version** : `5.0`\n"
 pm_caption += f"➥ **My Boss** : {DEFAULTUSER} \n"
 pm_caption += "➥ **Heroku Database** : `AWS - Working Properly`\n\n"
 pm_caption += "➥ **License** : [GNU General Public License v3.0](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n"
-pm_caption += "➥ **Copyright** : By [StarkGang@Github](GitHub.com/StarkGang)\n"
+pm_caption += "➥ **Copyright** : By [Deon378@Github](GitHub.com/Deon378)\n"
 pm_caption += "➥ **Check Stats By Doing** `.stat`. \n\n"
 pm_caption += "[🇮🇳 Deploy FridayUserbot 🇮🇳](https://telegra.ph/FRIDAY-06-15)"
 
